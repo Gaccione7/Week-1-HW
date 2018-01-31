@@ -1,0 +1,19 @@
+h1, nav, footer {
+	text-align: center;
+}
+body {
+		background-color: lightgray;
+}
+footer {
+	font-weight: bold;
+}
+* {
+	font-family: helvetica;
+}
+hr {
+	border-top: 3px double #8c8b8b;
+}
+
+h2 {
+	text-decoration: underline
+}
